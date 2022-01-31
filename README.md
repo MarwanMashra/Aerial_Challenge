@@ -9,4 +9,4 @@ I worked in a team of 3 to solve the challenge using Deep Learning with Tensorfl
 # Results
 
 <img src="img/results.png"
-    alt="Results of the model" width=800 />
+    alt="Results of the model" width=820 />
