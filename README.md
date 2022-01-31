@@ -1,8 +1,8 @@
-# To-Be_Challenge
+# Aerial_Challenge
 
-[To-Be](https://duckduckgo.com) is a machine learning challenge on CodaLab Platform about Mortality Prediction. The challenge aims to adress the problems of medical imbalanced data classification.
+[Aerial](https://codalab.lisn.upsaclay.fr/competitions/573) is a machine learning challenge on CodaLab Platform. It's a multi-class geographic image classification.
 
-I worked in a team of 3 to solve the challenge and we were able to achieve a score of 77% and rank in the top 3. We used a LGBMClassifier and a mix of two resampling techniques (RandomUnderSampler and BorderlineSMOTE).
+I worked in a team of 3 to solve the challenge using Deep Learning with Tensorflow. We were able to acheive 91.4% accuracy using a pre-trained model (ResNet50) and data-augmentation .
 
 <br>
 
