@@ -1,0 +1,6 @@
+public_data/
+.ipynb_checkpoints/
+.idea/
+logs/
+*.h5
+*.csv
